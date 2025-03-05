@@ -1,0 +1,3 @@
+[submodule "src/traindoo_shared"]
+	path = src/traindoo_shared
+	url = ../traindoo_shared.git

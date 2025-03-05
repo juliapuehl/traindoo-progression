@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "traindoo-dev",
+    "production": "traindoo-io",
+    "development": "traindoo-io-dev"
+  },
+  "targets": {}
+}
